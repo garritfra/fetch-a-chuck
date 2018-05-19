@@ -8,4 +8,4 @@ const randomJoke = () => {
     });
 };
 
-module.exports = randomJoke();
+module.exports = randomJoke;
